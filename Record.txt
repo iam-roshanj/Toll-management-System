@@ -1,0 +1,26 @@
+Vehicle type: [CATEGORY 5]MAV(Four to Six Axles) 
+Amount collected: Rs.1
+
+Vehicle type: [CATEGORY 6]Oversized vehicle(Seven or more axles) 
+Amount collected: Rs.1
+
+Vehicle type: [CATEGORY 3]Bus/Truck/Road Roller(Two Axles) 
+Amount collected: Rs.-1
+
+
+
+Total number of vehicles: 0
+Total cash collected: Rs.0
+
+
+
+DATE: 1 AUGUST 26, 2021
+
+Vehicle type: [CATEGORY 3]Bus/Truck/Road Roller(Two Axles) 
+Journey type: Return 
+Amount collected: Rs.300
+
+Vehicle type: [CATEGORY 6]Oversized vehicle(Seven or more axles) 
+Journey type: Return 
+Amount collected: Rs.800
+

@@ -1,0 +1,40 @@
+*****************************************************************************************************************
+*****************************************************************************************************************
+**                                 Fare Details (Toll amount in Rs.):                                          **
+**                                                                                                             **
+**    CATEGORY 1: Car/Jeep/Three Wheeler/LMV          CATEGORY 2: LCV/Tractor with Triller/LGV or Mini Bus     **
+**                                                                                                             **
+**	       Single journey: 50                         Single journey: 100                                  **
+**	       Return journey: 100                        Return journey: 200                                  **
+**	       Monthly pass:   2000                       Monthly pass:   2500                                 **
+**                                                                                                             **
+**                                                                                                             **	    
+**    CATEGORY 3: Bus/Truck/Road Roller(Two Axles)     CATEGORY 4: Three Axles Commercial Vehicle              **
+**                                                                                                             **
+**	    Single journey: 150                               Single journey: 200                              **
+**	    Return journey: 300                               Return journey: 400                              **
+**	    Monthly pass:   6500                              Monthly pass:   7000                             **
+**                                                                                                             **
+**                                                                                                             **
+**    CATEGORY 5: MAV(Four to Six Axles)               CATEGORY 6: Oversized vehicle(Seven or more axles)      **          
+**                                                                                                             **
+**	    Single journey: 300                               Single journey: 500                              **
+**	    Return journey: 500                               Return journey: 800                              **
+**	    Monthly pass:   10000                             Monthly pass:   12000                            **
+**                                                                                                             **
+**                                                                                                             **
+**                                                                                                             **
+**                   No fee will be collected from Exempted Vehicle                                            **
+**                                                                                                             **
+*****************************************************************************************************************
+*****************************************************************************************************************
+
+
+
+	   
+	   
+	    
+
+
+
+	    			    
