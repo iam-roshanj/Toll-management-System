@@ -364,7 +364,7 @@ int main()
         cout<<setw(100)<<setfill('>')<<""<<endl; 
         cout<<setw(65)<<setfill(' ')<<"WELCOME TO TOLL MANAGMENT SYSTEM     "<<endl<<endl;
         cout<<setw(65)<<setfill(' ')<<"NAUBISE-MUGLING ROAD PRITHVI HIGHWAY "<<endl<<endl;
-        cout<<setw(65)<<setfill(' ')<<"DESIGNED BY: TEAM SUROSU             "<<endl<<endl;
+        cout<<setw(65)<<setfill(' ')<<"DESIGNED BY: ROSHAN JHA             "<<endl<<endl;
         cout<<setw(100)<<setfill('>')<<""<<endl;
         char choice;
         cout<<endl<<endl<<endl<<endl;
