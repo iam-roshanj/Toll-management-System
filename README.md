@@ -35,7 +35,15 @@ The programming methods we’ve used can as summarized below:
 ●	 Program Documentation.
 ![Screenshot 2021-08-26 024320](https://user-images.githubusercontent.com/84196979/130863734-7b30733c-a061-4906-9392-a16a08e609b3.png)
 
+
+
+
 Our output screen looks like:-
+
+
+
+
+
 ![Screenshot 2021-08-26 032511](https://user-images.githubusercontent.com/84196979/130868326-361a0dba-821c-46a6-a3c6-d41d052a93e4.png)
 
 
