@@ -7,7 +7,13 @@ Object oriented paradigm using C++.
 
      The program is about Toll system of Naubise-Mugling section of Prithvi Highway. There are a lot of vehicle passing by this highway every day. For this, they have to pay tax. This program will keep all the information of all passed/entered vehicles. We have made six category for vehicles of collecting toll amount. The toll amount for categorized vehicles are listed in the table below:-
      
-     ![Screenshot 2021-08-26 024134](https://user-images.githubusercontent.com/84196979/130863581-eac2c565-dcac-4157-80a6-e920d616abbb.png)
+  
+  
+  
+  
+  
+ ![Screenshot 2021-08-26 024134](https://user-images.githubusercontent.com/84196979/130868658-c22aa674-becd-45de-b271-b8f4c67a6b95.png)
+
 
 
 Our project also has a new feature of “START NEW DAY” which allows is to clear all the previous records and store new record in the starting new day. This feature allows us to store data for one day and if the new user is recruited in a single day then they can store the data for toll collected fee for that particular day only. Also, in our next category we have “ADD NEW VEHICLES” that allows us to add new vehicles collect  their respective toll fee from fee category in Tollbooth and we can add that vehicles fee in our record file. Also we have the category called “CLEAR RECORDS” which helps us to clear all the previous records and we can use this feature in the starting of new fiscal year. We also have the feature of “PRINT RECORD” that helps the user to print their toll amount and category of vehicles fee in hard copy and so user can feel trustworthy and have proof of paying toll fee. We have also made a functions that shows the list of vehicles whose toll amount is not charged and are kept in category called “EXEMPTED VEHICLES”. Finally, the user can switch between the menus and can return to options called main menu or can exit as per the user choice.
